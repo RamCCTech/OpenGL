@@ -1,0 +1,2 @@
+#define HERMITECURVE_API __declspec(dllexport)
+#define HERMITECURVE_API __declspec(dllimport)
